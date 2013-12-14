@@ -1,7 +1,7 @@
 {
   "name": "fend.js",
   "version": "0.0.0",
-  "description": "Fend.js - A javascript MVC application kit running on the client and the server for creating web applications.",
+  "description": "Fend.js - A JavaScript front-end web application framework running on the client and the server for creating web applications",
   "repository": {
     "type": "git",
     "url": "git://github.com/Frapwings/fend.js.git"
@@ -12,10 +12,11 @@
     "url": "https://github.com/Frapwings/fend.js/issues"
   },
   "keywords": [
-    "connect",
-    "component",
+    "web",
     "MVC",
-    "web"
+    "isomoriphic",
+    "front-end",
+    "framework"
   ],
   "dependencies": {
     "connect": "~2.11.0",

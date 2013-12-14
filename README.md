@@ -1,13 +1,12 @@
 # Fend.js
 
-Fend.js - A javascript MVC application kit running on the client and the server for creating web applications.
+Fend.js - A JavaScript front-end web application framework running on the client and the server for creating web applications.
 
 This project is an experiment.
 
 # Concepts
-- [connect](https://github.com/senchalabs/connect) + [component](https://github.com/component)
-- The application structure is like Ruby on Rails.
-- We can write simple MVC codes running on the client and the server.
+- The application structure, like Ruby on Rails.
+- We can write simple isomoriphic MVC codes running on the client and the server.
 - We can support SEO with server side rendering.
 - We can use same html templates on the client and the server.
 - We can use same router on the client and the server.
