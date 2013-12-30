@@ -2,7 +2,8 @@
 
 Fend.js - A JavaScript front-end web application framework running on the client and the server for creating web applications.
 
-This project is an experiment.
+This project is not being maintained.
+Please check to [fendjs/fend](https://github.com/fendjs/fend).
 
 # Concepts
 - The application structure, like Ruby on Rails.
